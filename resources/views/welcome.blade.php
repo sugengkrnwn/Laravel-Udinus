@@ -92,14 +92,14 @@
       <img class="d-block mw-100 w-100" src="http://www.opusnusantara.com/images/Slider1.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>Ini Judul</h5>
-        <p>Ini Subjudul</p>
+        <p>Ini Subjudul ku</p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block mw-100 w-100" src="http://www.opusnusantara.com/images/Slider2.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>Ini Judul</h5>
-        <p>Ini Subjudul</p>
+        <p>Ini Subjudul ku</p>
       </div>
     </div>
     <div class="carousel-item">
